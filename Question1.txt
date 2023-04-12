@@ -1,0 +1,7 @@
+ASCII Name: 329 (UTKU)
+ASCII Surname: 446 (GOKALP)
+ASCII Total: 775
+Timer number: (775 % 14) + 1 = 6
+ARRNUMBER: 65536 - 1
+Duration: (446 % 1500) * 30 = 13380
+LED_PIN_NUMBER: (775 % 4) + 12 = 15
